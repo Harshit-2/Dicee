@@ -1,4 +1,4 @@
-![App Brewery Banner](AppLayout-iOS13/Documentation/AppBreweryBanner.png)
+![App Brewery Banner](AutoLayout-iOS13/Documentation/AppBreweryBanner.png)
 
 # Dicee
 
